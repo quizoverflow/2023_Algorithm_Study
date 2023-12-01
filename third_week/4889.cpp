@@ -3,6 +3,10 @@
 #include<string>
 using namespace std;
 
+#define power(x) x*x
+
+
+
 int main(){
     string s;
     int cnt = 1; // 정답 번호

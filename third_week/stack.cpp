@@ -9,6 +9,8 @@ class My_stack{
     public:
     //Q1) 스택 선언 : stack<자료형> 스택 이름;
 
+
+
     My_stack(){
         cout<<"my stack"<<endl;
         //Q2) 스택에 데이터 입력. push()함수 사용
